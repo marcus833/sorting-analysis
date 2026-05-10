@@ -15,7 +15,7 @@ Este trabalho apresenta uma análise comparativa do desempenho de quatro algorit
 
 ## 1. Introdução
 
-Todo processador moderno tem múltiplos núcleos — mas a maioria dos programas usa apenas um. Este trabalho explora justamente isso: pegar algoritmos clássicos de ordenação e testar o que muda quando a gente para de ignorar os outros núcleos. Vale a pena paralelizar? Para qual algoritmo faz mais diferença? É o que os testes a seguir respondem.
+A busca por eficiência computacional é um tema central na ciência da computação moderna. Com o avanço dos processadores multicore, a programação paralela tornou-se uma abordagem essencial para extrair o máximo de desempenho das máquinas atuais. Nesse contexto, algoritmos de ordenação — amplamente utilizados em sistemas reais — representam um excelente objeto de estudo para comparar abordagens sequenciais e paralelas.
 
 Este trabalho implementa e avalia quatro algoritmos de ordenação:
 
