@@ -1,0 +1,13 @@
+com\sorting\algorithms\BubbleSort.class
+com\sorting\framework\TestRunner.class
+com\sorting\parallel\ParallelBubbleSort.class
+com\sorting\algorithms\MergeSort.class
+com\sorting\results\CsvWriter.class
+com\sorting\Main.class
+com\sorting\parallel\ParallelSelectionSort.class
+com\sorting\parallel\ParallelMergeSort$MergeSortTask.class
+com\sorting\algorithms\QuickSort.class
+com\sorting\algorithms\SelectionSort.class
+com\sorting\parallel\ParallelMergeSort.class
+com\sorting\parallel\ParallelQuickSort$QuickSortTask.class
+com\sorting\parallel\ParallelQuickSort.class
